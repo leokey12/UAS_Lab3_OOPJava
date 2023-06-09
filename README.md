@@ -1,8 +1,11 @@
 # UAS_Lab3_OOPJava
 
 Nama Anggota Kelompok
+
 Filbert Wijaya 211401045
+
 Eunike Leoni 211401048
+
 Habel Sitanggang 211401073
 
 1.	Interface adalah proses pewarisan data dan method dari suatu kelas kepada kelas yang  lain.Pewarisan ini bersifat menyeluruh, sehingga semua data dan method yang dimiliki oleh kelas asalnya akan diturunkan kepada kelas.Pewarisan ini bersifat menyeluruh,sehingga semua data dan method yang dimiliki oleh kelas asalnya akan diturunkan kepada kelas baru
